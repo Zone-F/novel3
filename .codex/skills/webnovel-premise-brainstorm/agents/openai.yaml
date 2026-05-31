@@ -1,0 +1,4 @@
+interface:
+  display_name: "网文题材头脑风暴"
+  short_description: "围绕基础题材做反差、缝合、机制、关系、结构和情绪创新。"
+  default_prompt: "基于我的基础题材，使用这个技能帮我做网文题材头脑风暴，先明确创新方向，再输出可筛选的卖点方案。"
